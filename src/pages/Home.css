@@ -1,0 +1,30 @@
+.Content{
+    background-color: #FFF9F8;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    overflow: visible !important;
+}
+
+
+.TableContainer{
+    margin-top: 20px;
+}
+
+.ant-table-body{
+    min-height: 90vh;
+}
+
+.TableLayout{
+    border-radius: 10px;
+}
+
+.TableHeaderContainer{
+    margin-top: 2000px;
+    margin-bottom: 10px;
+}
+
+.TableHeader{
+    color: red;
+    font-weight: 600;
+}
